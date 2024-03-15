@@ -1,0 +1,80 @@
+─ CPU
+  └── Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+      ├── Cores: 6
+      ├── Threads: 12
+      ├── SSE: SSE4.2
+      └── SSSE3: Supported
+
+─ Motherboard
+  ├── Model: Z390 GAMING X-CF
+  └── Manufacturer: Gigabyte Technology Co., Ltd.
+
+─ GPU
+  └── Radeon RX 570 Series
+      ├── Device ID: 0x67DF
+      ├── Vendor: 0x1002
+      ├── PCI Path: PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)
+      ├── ACPI Path: \_SB.PCI0.PEG0.PEGP
+      └── Codename: Polaris 10
+
+─ Memory
+  ├── M378A1K43BB2-CRC (Part-Number)
+  │   ├── Type: DDR4
+  │   ├── Slot
+  │   │   ├── Bank: BANK 1
+  │   │   └── Channel: ChannelA-DIMM1
+  │   ├── Frequency (MHz): 2400 MHz
+  │   ├── Manufacturer: Samsung
+  │   └── Capacity: 8192MB
+  └── M378A1K43BB2-CRC (Part-Number)
+      ├── Type: DDR4
+      ├── Slot
+      │   ├── Bank: BANK 3
+      │   └── Channel: ChannelB-DIMM1
+      ├── Frequency (MHz): 2400 MHz
+      ├── Manufacturer: Samsung
+      └── Capacity: 8192MB
+
+─ Network
+  ├── Ethernet Connection (7) I219-V
+  │   ├── Device ID: 0x15BC
+  │   ├── Vendor: 0x8086
+  │   ├── PCI Path: PciRoot(0x0)/Pci(0x1f,0x6)
+  │   └── ACPI Path: \_SB.PCI0.GLAN
+  └── Wi-Fi 6 AX210/AX211/AX411 160MHz
+      ├── Device ID: 0x2725
+      ├── Vendor: 0x8086
+      ├── PCI Path: PciRoot(0x0)/Pci(0x1c,0x3)/Pci(0x0,0x0)
+      └── ACPI Path: \_SB.PCI0.RP04.PXSX
+
+─ Audio
+  ├── Realtek ALC892
+  │   ├── Device ID: 0x0892
+  │   └── Vendor: 0x10EC
+  └── RV635 HDMI Audio [Radeon HD 3650/3730/3750]
+      ├── Device ID: 0xAA01
+      └── Vendor: 0x1002
+
+─ Input
+  ├── USB Input Device (USB)
+  │   ├── Product ID: 0xC539
+  │   └── Vendor ID: 0x046D
+  ├── USB Input Device (USB)
+  │   ├── Product ID: 0x2612
+  │   └── Vendor ID: 0x3842
+  ├── HID Keyboard Device
+  │   ├── Product ID: 0x2612
+  │   └── Vendor ID: 0x3842
+  ├── HID-compliant mouse
+  │   ├── Product ID: 0xC539
+  │   └── Vendor ID: 0x046D
+  └── HID-compliant mouse
+      ├── Product ID: 0x2612
+      └── Vendor ID: 0x3842
+
+─ Storage
+  └── LITEON CV8-8E128-11 SATA 128GB
+      ├── Type: Solid State Drive (SSD)
+      ├── Connector: RAID
+      └── Location: Internal
+
